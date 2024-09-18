@@ -21,7 +21,7 @@ The following files need to be executed in order.
   - Creates spatial plots and time series plots
 - Step 8: Run _calculating_scaling_factor.ipynb_
   - Creates a 'scaling factor' to be used in step 9. This is necessary to create as the maximum daily heat indices are estimated with daily maximum air temperature and minimum relative humidity, while available projections only allow the creation of mean daily heat indices (a function of daily mean air temperature and mean relative humidity).
-- Step 9: Run _projections.ipynb_ after changing the filepaths to suit you.
+- Step 9: Run _projections analysis.ipynb_ after changing the filepaths to suit you.
 
 **Useful tips**
 Don't worry about the equivalent "backend" files unless you'd like to make some changes to the outputs
